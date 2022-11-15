@@ -6,7 +6,7 @@ The repository contains a [Data Analysis folder](https://github.com/dmhanson/Eng
 2. module [getting started](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Using%20Pandas1.ipynb) with the Pandas package
 3. module on [using the Pandas package](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Using%20Pandas2.ipynb) for data analysis
 
-A [Data collection](insert link) folder on the instructional steps to reproduce the data and a sample of the full information with a readme on what the collection details.
+A [Data collection](https://github.com/dmhanson/English105-UNC/tree/main/Data%20collection) folder on the instructional steps to reproduce the data and a sample of the full information with a readme on what the collection details.
 
 These materials have been adpated from excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/hub/) of the UNC 's Davis Library.
 
