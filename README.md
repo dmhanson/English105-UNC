@@ -3,8 +3,8 @@
 
 The repository contains a Data Analysis folder containing:
 1. module on covering [basic topics](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Python%20Basics.ipynb) in coding Python3
-2. module getting started with the Pandas package
-3. module on using the Pandas package for data analysis
+2. module [getting started](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Using%20Pandas1.ipynb) with the Pandas package
+3. module on [using the Pandas package](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Using%20Pandas2.ipynb) for data analysis
 
 These materials have been adpated from excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/hub/) of the UNC 's Davis Library.
 
