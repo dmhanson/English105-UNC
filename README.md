@@ -2,7 +2,7 @@
  This is a repository containing instructional materials, and a sample dataset for Violent crime and homicide rate per county in NC. 
 
 The repository contains a Data Analysis folder containing:
-1. module on covering basic topics in coding Python3
+1. module on covering [basic topics](https://github.com/dmhanson/English105-UNC/blob/main/Data%20analysis/Python%20Basics.ipynb) in coding Python3
 2. module getting started with the Pandas package
 3. module on using the Pandas package for data analysis
 
