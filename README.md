@@ -1,5 +1,5 @@
 # English105-UNC
- This is a repository containing [instructional steps](https://github.com/dmhanson/English105-UNC/blob/main/Instructional%20steps.ipynb), and a sample dataset for [Violent crime and homicide rate per county in NC](https://github.com/dmhanson/English105-UNC/blob/main/ViolentCrime-HomicideRate-inNorthCarolina.xls). 
+ This is a repository containing instructional steps, and a sample dataset for [Violent crime and homicide rate per county in NC](https://github.com/dmhanson/English105-UNC/blob/main/ViolentCrime-HomicideRate-inNorthCarolina.xls). 
 
 A [Data collection](https://github.com/dmhanson/English105-UNC/tree/main/Data%20collection) folder on the instructional steps to reproduce the data, visual display of the data on a state wide scale and a sample of the full information with a readme on what the collection details.
 
