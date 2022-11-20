@@ -4,3 +4,4 @@ display for use
 If there are no numbers, it means there was no homicides recorded for that county that year. 
 
 The two PNG files are visual data to show where the county is located in the state. The darker the county, the more violent crime or more homicides happen there. If the county is blank, no crime happened there. 
+![screenshot](Mcb5O-homicide-rate-per-county.png)
