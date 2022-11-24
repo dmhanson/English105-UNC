@@ -9,5 +9,5 @@ If the county is blank, no crime happened there.
 ## Here we can see which counties visiually match up to having less or more color and their location to major cities within the State.
 
 
-![screenshot](https://github.com/dmhanson/English105-UNC/blob/main/Data%20collection/County%20crime.png)
+![screenshot](https://github.com/dmhanson/English105-UNC/blob/main/Data%20collection/Homicide%20and%20Violent%20crime%20in%20NC.png)
 
