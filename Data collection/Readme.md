@@ -8,7 +8,7 @@ Listed below is the two images The darker the county, the more violent crime or 
 If the county is blank, no crime happened there. 
 
 
-# Here below we can visually see which counties located near major cities in North Carolina are the darkest or lightest. The dataset we pulled from the CSV file places the county with the worst crime and homicide at the top. The graphs below help match up those locations on a state map and its relation to a city. 
+Here below we can visually see which counties located near major cities in North Carolina are the darkest or lightest. The dataset we pulled from the CSV file places the county with the worst crime and homicide at the top. The graphs below help match up those locations on a state map and its relation to a city. 
 
 
 ![screenshot](https://github.com/dmhanson/English105-UNC/blob/main/Data%20collection/Homicide%20and%20Violent%20crime%20in%20NC.png)
