@@ -9,5 +9,5 @@ If the county is blank, no crime happened there.
 ## Here we can see which counties visiually match up to having less or more color and their location to major cities within the State.
 
 
-![screenshot](Mcb5O-homicide-rate-per-county.png)
-![screenshot](qxSbc-violent-crime-per-county.png)
+![screenshot](https://github.com/dmhanson/English105-UNC/blob/main/Data%20collection/County%20crime.png)
+
